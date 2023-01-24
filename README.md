@@ -36,7 +36,7 @@ O Habits é um app para ajudar a rastrear os hábitos.
 
 ## 💻 Demonstração
 
-- [Visite o projeto online] (https://irwayne.github.io/nlw-setup)
+- [Visite o projeto online] (https://irwaynetaborda.github.io/nlw-setup)
 
 ## 🔖 Layout
 
